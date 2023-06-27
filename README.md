@@ -13,7 +13,7 @@ To run the algorithm, call the `run` function.
 - `iterations`, iterations of gradient descent, default is `300`
 - `alpha`, learning rate, default is `0.1`
 
-# preview
+# plot preview
 <p float="left">
   <img width="500" src="https://github.com/fabianmontag/unilinear-regression/assets/113472012/ea1ece49-5bdb-421f-a998-d40294d05977" />
   <img width="500" src="https://github.com/fabianmontag/unilinear-regression/assets/113472012/6ddf0b50-9228-49b7-81de-46325e2acb88" />
