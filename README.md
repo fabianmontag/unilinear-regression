@@ -2,7 +2,7 @@
 Jupyter Notebook for unilinear regression from scratch with python
 
 # Installation and Running
-Download the `unilinear_regression.ipynb` file and run with [Juypter Notebook](https://jupyter.org) or in [VS-Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+Download the `unilinear_regression.ipynb` file and run with [Jupyter Notebook](https://jupyter.org) or in [VS-Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 To run the algorithm, call the `run` function.
 
 # Parameters
